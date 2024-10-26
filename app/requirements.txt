@@ -4,5 +4,5 @@ itsdangerous==1.1.0
 Jinja2==3.1.4
 MarkupSafe==1.1.1
 nameparser==1.0.3
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 whoswho==0.2.1
